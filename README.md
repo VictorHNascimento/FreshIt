@@ -1,3 +1,8 @@
 # Sobre o TCC
 
 Trabalho de Conclusão de Curso feito para o curso técnico de Desenvolvimento de Sistemas da escola Etec Jacinto Ferreira de Sá, Ourinhos. Para esse esse projeto eu fui responsável de fazer a base de dados.
+
+# Resumo 
+A gestão de ativos computacionais é um conjunto de afazeres que tem por objetivo atuar em uma empresa, por exemplo, e dividir está em duas etapas, a identificação dos ativos de hardware presentes no local, fechamento destes e análise, a fim de desenvolver um software que facilite a atuação ou locomoção dos ativos dentro da empresa. Em delegações como de custos, eficiência, normas, manutenção, conservação e prazo de vida útil dos equipamentos. Para que as etapas obtenham sucesso o termo possui pilares que são bases para a sua aplicação, já que as empresas e profissionais de tecnologia da Informação, na contemporaneidade têm reunido funções de enorme abrangência o que pode dificultar suas atividades. Como proposta central do trabalho é apresentado um software web/mobile FreshIt que irá aplicar o conceito da gestão em microempresas que incluem a tecnologia da informação em sua atuação, com a finalidade de aperfeiçoar o desempenho das entidades que vão empregar o sistema, a aplicação será feita através dos pilares de gestão de materiais, trabalho, itens e ativos, além da manutenção de ativos e aquisição de finanças. Isto significa que gerenciar o ambiente tecnológico é essencial, e para que isso aconteça de modo satisfatório o software realiza as etapas iniciais de reconhecimento dos ativos, catalogação no sistema, análise das incumbências e por fim sugestão e aplicação de melhorias. 
+
+Projeto, Base de Dados e Parte Escrita disponíveis.
